@@ -1,0 +1,11 @@
+framework module PriceBot {
+  umbrella header "PriceBot.h"
+
+  export *
+  module * { export * }
+}
+
+module PriceBot.Swift {
+    header "PriceBot-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+framework module APIService {
+  header "APIService-Swift.h"
+  requires objc
+}

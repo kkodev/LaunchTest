@@ -1,0 +1,4 @@
+framework module JourneyPlannerService {
+  header "JourneyPlannerService-Swift.h"
+  requires objc
+}

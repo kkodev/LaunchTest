@@ -1,0 +1,4 @@
+framework module PlanAndBuy {
+  header "PlanAndBuy-Swift.h"
+  requires objc
+}

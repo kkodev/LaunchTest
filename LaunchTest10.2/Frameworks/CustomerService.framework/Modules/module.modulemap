@@ -1,0 +1,11 @@
+framework module CustomerService {
+  umbrella header "CustomerService.h"
+
+  export *
+  module * { export * }
+}
+
+module CustomerService.Swift {
+    header "CustomerService-Swift.h"
+    requires objc
+}

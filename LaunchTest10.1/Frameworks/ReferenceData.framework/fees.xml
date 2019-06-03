@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<fees>
+    <!-- iOS -->
+    <!-- Leisure Next 2 Hours Journey -->
+    <cardfees channel="20|923" effectivefrom="01/01/1970">
+        <cardfee amount="0" cardtype="VISA" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="MC" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="AMEX" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="DINERS" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="PAYPAL" feetype="fixed" threshold="0"/>
+    </cardfees>
+    <bookingfees channel="20|923" effectivefrom="01/01/1970">
+        <bookingfee amount="0.0" feetype="fixed" threshold="0"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="25.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="50.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="100.01"/>
+    </bookingfees>
+    <!-- Leisure Today Journey -->
+    <cardfees channel="20|924" effectivefrom="01/01/1970">
+        <cardfee amount="0" cardtype="VISA" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="MC" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="AMEX" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="DINERS" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="PAYPAL" feetype="fixed" threshold="0"/>
+    </cardfees>
+    <bookingfees channel="20|924" effectivefrom="01/01/1970">
+        <bookingfee amount="0.0" feetype="fixed" threshold="0"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="25.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="50.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="100.01"/>
+    </bookingfees>
+    <!-- Leisure Future Journey -->
+    <cardfees channel="20|921" effectivefrom="01/01/1970">
+        <cardfee amount="0" cardtype="VISA" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="MC" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="AMEX" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="DINERS" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="PAYPAL" feetype="fixed" threshold="0"/>
+    </cardfees>
+    <bookingfees channel="20|921" effectivefrom="01/01/1970">
+        <bookingfee amount="0.25" feetype="fixed" threshold="0"/>
+        <bookingfee amount="0.5" feetype="fixed" threshold="25.01"/>
+        <bookingfee amount="1.0" feetype="fixed" threshold="50.01"/>
+        <bookingfee amount="1.5" feetype="fixed" threshold="100.01"/>
+    </bookingfees>
+    <!-- SME Today Journey -->
+    <cardfees channel="20|946" effectivefrom="01/01/1970">
+        <cardfee amount="0" cardtype="VISA" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="MC" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="AMEX" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="DINERS" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="LODGE" feetype="fixed" threshold="0"/>
+        <cardfee amount="0" cardtype="PAYPAL" feetype="fixed" threshold="0"/>
+    </cardfees>
+    <bookingfees channel="20|946" effectivefrom="01/01/1970">
+        <bookingfee amount="0.0" feetype="fixed" threshold="0"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="25.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="50.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="100.01"/>
+    </bookingfees>
+    <!-- SME Future Journey -->
+    <cardfees channel="20|947" effectivefrom="01/01/1970">
+        <cardfee amount="0" cardtype="VISA" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="MC" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="AMEX" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="DINERS" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="LODGE" feetype="fixed" threshold="0"/>
+        <cardfee amount="0" cardtype="PAYPAL" feetype="fixed" threshold="0"/>
+    </cardfees>
+    <bookingfees channel="20|947" effectivefrom="01/01/1970">
+        <bookingfee amount="0.25" feetype="fixed" threshold="0"/>
+        <bookingfee amount="0.5" feetype="fixed" threshold="25.01"/>
+        <bookingfee amount="1.0" feetype="fixed" threshold="50.01"/>
+        <bookingfee amount="1.5" feetype="fixed" threshold="100.01"/>
+    </bookingfees>
+    <!-- Android -->
+    <!-- Leisure Next 2 Hours Journey -->
+    <cardfees channel="20|930" effectivefrom="01/01/1970">
+        <cardfee amount="0" cardtype="VISA" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="MC" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="AMEX" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="DINERS" feetype="percent" threshold="0"/>
+    </cardfees>
+    <bookingfees channel="20|930" effectivefrom="01/01/1970">
+        <bookingfee amount="0.0" feetype="fixed" threshold="0"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="25.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="50.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="100.01"/>
+    </bookingfees>
+    <!-- Leisure Today Journey -->
+    <cardfees channel="20|931" effectivefrom="01/01/1970">
+        <cardfee amount="0" cardtype="VISA" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="MC" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="AMEX" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="DINERS" feetype="percent" threshold="0"/>
+    </cardfees>
+    <bookingfees channel="20|931" effectivefrom="01/01/1970">
+        <bookingfee amount="0.0" feetype="fixed" threshold="0"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="25.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="50.01"/>
+        <bookingfee amount="0.0" feetype="fixed" threshold="100.01"/>
+    </bookingfees>
+    <!-- Leisure Future Journey -->
+    <cardfees channel="20|929" effectivefrom="01/01/1970">
+        <cardfee amount="0" cardtype="VISA" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="MC" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="AMEX" feetype="percent" threshold="0"/>
+        <cardfee amount="0" cardtype="DINERS" feetype="percent" threshold="0"/>
+    </cardfees>
+    <bookingfees channel="20|929" effectivefrom="01/01/1970">
+        <bookingfee amount="0.25" feetype="fixed" threshold="0"/>
+        <bookingfee amount="0.5" feetype="fixed" threshold="25.01"/>
+        <bookingfee amount="1.0" feetype="fixed" threshold="50.01"/>
+        <bookingfee amount="1.5" feetype="fixed" threshold="100.01"/>
+    </bookingfees>	
+</fees>

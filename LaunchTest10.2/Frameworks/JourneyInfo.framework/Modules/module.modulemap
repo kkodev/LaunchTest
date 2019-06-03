@@ -1,0 +1,11 @@
+framework module JourneyInfo {
+  umbrella header "JourneyInfo.h"
+
+  export *
+  module * { export * }
+}
+
+module JourneyInfo.Swift {
+    header "JourneyInfo-Swift.h"
+    requires objc
+}

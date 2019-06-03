@@ -1,0 +1,11 @@
+framework module BusyBot {
+  umbrella header "BusyBot.h"
+
+  export *
+  module * { export * }
+}
+
+module BusyBot.Swift {
+    header "BusyBot-Swift.h"
+    requires objc
+}

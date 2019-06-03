@@ -1,0 +1,4 @@
+framework module OrderHistory {
+  header "OrderHistory-Swift.h"
+  requires objc
+}

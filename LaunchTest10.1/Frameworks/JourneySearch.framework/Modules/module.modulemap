@@ -1,0 +1,11 @@
+framework module JourneySearch {
+  umbrella header "JourneySearch.h"
+
+  export *
+  module * { export * }
+}
+
+module JourneySearch.Swift {
+    header "JourneySearch-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+framework module MobileReferenceData {
+  header "MobileReferenceData-Swift.h"
+  requires objc
+}

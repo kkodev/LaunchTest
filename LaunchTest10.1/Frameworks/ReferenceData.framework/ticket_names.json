@@ -1,0 +1,4270 @@
+{
+    "data": {
+        "10A": {
+            "class": "S",
+            "description": "Save over 20% on 10 single journeys.",
+            "name": "CARNET OFF-PEAK SINGLE",
+            "outbound_validity": "M6",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "10B": {
+            "class": "F",
+            "description": "Save over 20% on 10 single journeys.",
+            "name": "CARNET OFF-PEAK FIRST SINGLE",
+            "outbound_validity": "M6",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "10F": {
+            "class": "F",
+            "description": "Save over 30% on 10 anytime single journeys.",
+            "name": "CARNET FIRST SINGLE",
+            "outbound_validity": "M6",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "10S": {
+            "class": "S",
+            "description": "Save over 30% on 10 anytime single journeys.",
+            "name": "CARNET SINGLE",
+            "outbound_validity": "M6",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1AB": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1AF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1AS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1BA": {
+            "class": "F",
+            "description": "Includes Breakfast,48hrs parking Underground & Complimentary Light snack on return.See T&Cs.",
+            "name": "BUSINESS ANYTIME PLUS",
+            "outbound_validity": "M1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "1BB": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1BF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1BS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1CB": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1CF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1CS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1DB": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE BREAKFAST",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1DF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1DR": {
+            "class": "S",
+            "description": "Any off-peak train. Return same day.",
+            "name": "OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "1DS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1DT": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "OFF-PEAK DAY TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "1EF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1ES": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1FS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1GS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1HS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1JS": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1SO": {
+            "class": "F",
+            "description": "Selected off-peak trains. Return within one month.",
+            "name": "FIRST SUPER OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "1SS": {
+            "class": "F",
+            "description": "Selected off-peak trains.",
+            "name": "FIRST SUPER OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "1ST": {
+            "class": "F",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "FIRST SUPER OFF-PEAK TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "2AA": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2AF": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2AS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2BA": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2BF": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2BS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2CC": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2CF": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2CS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2DC": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2DF": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2DS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2EC": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2EF": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2ES": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2FB": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2FC": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2FF": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2FI": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2FS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2GB": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2GC": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2GF": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2GI": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2GS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2HC": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2HF": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2HS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2IA": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2IC": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2ID": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2IE": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2IF": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2IG": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2IH": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2II": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2IJ": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2IS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2JC": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2JS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2KC": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2LC": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2MC": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2SA": {
+            "class": "S",
+            "description": "",
+            "name": "STENA ADVANCE PEAK",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2SO": {
+            "class": "S",
+            "description": "",
+            "name": "STENA ADVANCE OFF-PEAK",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2SP": {
+            "class": "S",
+            "description": "",
+            "name": "STENA STANDBY PEAK",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "2SS": {
+            "class": "S",
+            "description": "",
+            "name": "STENA STANDBY OFF-PEAK",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "30C": {
+            "class": "S",
+            "description": "",
+            "name": "OFF-PEAK DAY 30",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "30P": {
+            "class": "S",
+            "description": "",
+            "name": "S OFF-PEAK 30",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "30V": {
+            "class": "S",
+            "description": "",
+            "name": "OFF-PEAK 30",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "55P": {
+            "class": "S",
+            "description": "To use Club 55 tickets you must be aged 55 or over & carry proof of age.",
+            "name": "CLUB 55 ANYDAY",
+            "outbound_validity": "D1",
+            "return_validity": "D8",
+            "tfl" : false
+        },
+        "55W": {
+            "class": "S",
+            "description": "To use Club 55 tickets you must be aged 55 or over & carry proof of age.",
+            "name": "CLUB 55 NOT FRIDAY",
+            "outbound_validity": "D1",
+            "return_validity": "D8",
+            "tfl" : false
+        },
+        "7BS": {
+            "class": "S",
+            "description": "",
+            "name": "BUS 7 DAY",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "98X": {
+            "class": "F",
+            "description": "",
+            "name": "ITX PACKAGE 1ST",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "98Y": {
+            "class": "S",
+            "description": "",
+            "name": "ITX PACKAGE",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "AA1": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AB1": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AD1": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "ADT": {
+            "class": "S",
+            "description": "Same day return travel including unlimited bus and tube journeys around London.",
+            "name": "ANYTIME DAY TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "AE1": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AF1": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AG2": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AH2": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AI2": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AJ2": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AK2": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "AIRPORT ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AM1": {
+            "class": "S",
+            "description": "",
+            "name": "SUPER OFF-PEAK DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AM2": {
+            "class": "S",
+            "description": "",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "AM3": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "SUPER OFF-PEAK TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "ANY": {
+            "class": "S",
+            "description": "",
+            "name": "ANY",
+            "outbound_validity": "",
+            "return_validity": "",
+            "tfl" : false
+        },
+        "ANYF": {
+            "class": "F",
+            "description": "",
+            "name": "ANY FIRST",
+            "outbound_validity": "",
+            "return_validity": "",
+            "tfl" : false
+        },
+        "ANYS": {
+            "class": "S",
+            "description": "",
+            "name": "ANY STANDARD",
+            "outbound_validity": "",
+            "return_validity": "",
+            "tfl" : false
+        },
+        "AR1": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST RAIL-AIR RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "AR2": {
+            "class": "S",
+            "description": "",
+            "name": "RAIL-AIR RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "AS1": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST RAIL-AIR SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AS2": {
+            "class": "S",
+            "description": "",
+            "name": "RAIL-AIR SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AW1": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "AXS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "B1R": {
+            "class": "F",
+            "description": "Travel any time of day, return within 1 month.",
+            "name": "FIRST BUSINESS RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "B1S": {
+            "class": "F",
+            "description": "Travel any time of day.",
+            "name": "FIRST BUSINESS SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "B2R": {
+            "class": "S",
+            "description": "Travel any time of day, return within 1 month.",
+            "name": "BUSINESS RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "B2S": {
+            "class": "S",
+            "description": "Travel any time of day.",
+            "name": "BUSINESS SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BAO": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BAS": {
+            "class": "S",
+            "description": "",
+            "name": "BUS ANNUAL SEAS",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "BBO": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BBR": {
+            "class": "S",
+            "description": "",
+            "name": "BLOCKBUSTER",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BCO": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BDR": {
+            "class": "S",
+            "description": "",
+            "name": "BUS DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "BDS": {
+            "class": "S",
+            "description": "",
+            "name": "BUS DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BFO": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BFR": {
+            "class": "F",
+            "description": "Any off-peak train. Return within 1 month.",
+            "name": "FIRST OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "BFS": {
+            "class": "F",
+            "description": "Any off-peak train.",
+            "name": "FIRST OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BGO": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BHO": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BMS": {
+            "class": "S",
+            "description": "",
+            "name": "BUS SEASN 1MNTH",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "BOR": {
+            "class": "S",
+            "description": "",
+            "name": "BUS OPEN RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D5",
+            "tfl" : false
+        },
+        "BOS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BP1": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating",
+            "name": "STANSTED BUSINESS PLUS SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BP2": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating",
+            "name": "STANSTED BUSINESS PLUS RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "BPR": {
+            "class": "S",
+            "description": "",
+            "name": "BUS PERIOD RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "BPS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BQS": {
+            "class": "S",
+            "description": "",
+            "name": "BUS SEASN 3MNTH",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "BRR": {
+            "class": "S",
+            "description": "",
+            "name": "STANDARD CLASS OFF-PEAK 1 RTN",
+            "outbound_validity": "D1",
+            "return_validity": "M1A",
+            "tfl" : false
+        },
+        "BRS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BSS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BTS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BUS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BVR": {
+            "class": "S",
+            "description": "Any off-peak train. Return within 1 month.",
+            "name": "OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "BVS": {
+            "class": "S",
+            "description": "Any off-peak train.",
+            "name": "OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BXS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BXZ": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BYS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "BZS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "C1R": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return same day.",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "C1S": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "C2S": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "C3S": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "C4S": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "C7S": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "CA1": {
+            "class": "F",
+            "description": "10 for the price of 9 anytime returns. No refunds.",
+            "name": "CARNET FIRST RETURN",
+            "outbound_validity": "M3",
+            "return_validity": "M3",
+            "tfl" : false
+        },
+        "CA2": {
+            "class": "S",
+            "description": "10 for the price of 9 anytime returns. No refunds.",
+            "name": "CARNET RETURN",
+            "outbound_validity": "M3",
+            "return_validity": "M3",
+            "tfl" : false
+        },
+        "CA3": {
+            "class": "S",
+            "description": "Save over 10% on 10 anytime single journeys. No refunds.",
+            "name": "CARNET SINGLE",
+            "outbound_validity": "M3",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "CAA": {
+            "class": "S",
+            "description": "Save 10% on 5 anytime return journeys. No refunds.",
+            "name": "CARNET 5 RETURN",
+            "outbound_validity": "M1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "CAB": {
+            "class": "F",
+            "description": "Save 10% on 5 return anytime journeys. No refunds.",
+            "name": "CARNET 5 FIRST RETURN",
+            "outbound_validity": "M1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "CAF": {
+            "class": "F",
+            "description": "10 for the price of 9 anytime returns. No refunds.",
+            "name": "CARNET 10 FIRST RETURN",
+            "outbound_validity": "M3",
+            "return_validity": "M3",
+            "tfl" : false
+        },
+        "CAG": {
+            "class": "S",
+            "description": "10 for the price of 9 anytime returns. No refunds.",
+            "name": "CARNET 10 RETURN",
+            "outbound_validity": "M3",
+            "return_validity": "M3",
+            "tfl" : false
+        },
+        "CAS": {
+            "class": "S",
+            "description": "5 for the price of 4 anytime returns. No refunds.",
+            "name": "CARNET 5 RETURN",
+            "outbound_validity": "M3",
+            "return_validity": "M3",
+            "tfl" : false
+        },
+        "CAV": {
+            "class": "F",
+            "description": "5 for the price of 4 anytime returns. No refunds.",
+            "name": "CARNET 5 FIRST RETURN",
+            "outbound_validity": "M3",
+            "return_validity": "M3",
+            "tfl" : false
+        },
+        "CBA": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return same day.",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "CBB": {
+            "class": "S",
+            "description": "Selected off-peak trains.",
+            "name": "SUPER OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "CCB": {
+            "class": "S",
+            "description": "12 for the price of 10 anytime returns. No refunds.",
+            "name": "CARNET TWELVE RETURN",
+            "outbound_validity": "M6",
+            "return_validity": "M6",
+            "tfl" : false
+        },
+        "CDR": {
+            "class": "S",
+            "description": "Any off-peak train. Return same day.",
+            "name": "OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "CDS": {
+            "class": "S",
+            "description": "Any off-peak train.",
+            "name": "OFF-PEAK DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "CNM": {
+            "class": "S",
+            "description": "Student fare, student ID required",
+            "name": "CNM STUDENT",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "COL": {
+            "class": "F",
+            "description": "",
+            "name": "COMP RETURN 1ST",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "COM": {
+            "class": "S",
+            "description": "",
+            "name": "COMP RETURN STD",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "CPF": {
+            "class": "F",
+            "description": "",
+            "name": "CORPORATE FIRST RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "DAS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DBS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DCS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DD1": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST DERBYSHIRE DAY",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "DD2": {
+            "class": "S",
+            "description": "",
+            "name": "DERBYSHIRE DAY",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "DDS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DES": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DFS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DG1": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DG2": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DG3": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DGS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DHS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DJS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DKS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DLS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DPS": {
+            "class": "S",
+            "description": "",
+            "name": "SAME DAY ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "DUO": {
+            "class": "S",
+            "description": "Two people must travel together",
+            "name": "GREATER ANGLIA DUO",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "EAR": {
+            "class": "S",
+            "description": "",
+            "name": "EURO APEX RTN",
+            "outbound_validity": "D1",
+            "return_validity": "M2",
+            "tfl" : false
+        },
+        "EAS": {
+            "class": "S",
+            "description": "",
+            "name": "EURO APEX SGL",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "ECD": {
+            "class": "S",
+            "description": "",
+            "name": "EVENING RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "ECR": {
+            "class": "S",
+            "description": "SailRail ticket - special conditions apply",
+            "name": "ECONOMY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "ECS": {
+            "class": "S",
+            "description": "SailRail ticket - special conditions apply",
+            "name": "ECONOMY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "EDR": {
+            "class": "S",
+            "description": "",
+            "name": "DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "EDS": {
+            "class": "S",
+            "description": "",
+            "name": "DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "EFR": {
+            "class": "F",
+            "description": "",
+            "name": "EURO 1ST RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M2",
+            "tfl" : false
+        },
+        "EFS": {
+            "class": "F",
+            "description": "",
+            "name": "EURO 1ST SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "EGF": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return same day.",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "EGS": {
+            "class": "S",
+            "description": "Selected off-peak trains.",
+            "name": "SUPER OFF-PEAK DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "EIF": {
+            "class": "F",
+            "description": "",
+            "name": "ADVANCE ITX 1ST (LOW FARE)",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "EIS": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE ITX STD (LOW FARE)",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "ELR": {
+            "class": "S",
+            "description": "",
+            "name": "EURO LOWSAVER R",
+            "outbound_validity": "D1",
+            "return_validity": "M2",
+            "tfl" : false
+        },
+        "ELS": {
+            "class": "S",
+            "description": "",
+            "name": "EURO LOWSAVER S",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "EMB": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating",
+            "name": "BUSINESS STANDARD",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "EOR": {
+            "class": "S",
+            "description": "",
+            "name": "EURO STD RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M2",
+            "tfl" : false
+        },
+        "EOS": {
+            "class": "S",
+            "description": "",
+            "name": "EURO STD SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "EPT": {
+            "class": "S",
+            "description": "",
+            "name": "EVENING PROMOTION",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "ES1": {
+            "class": "F",
+            "description": "",
+            "name": "EUROSTAR ITX 1ST",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "ES2": {
+            "class": "S",
+            "description": "",
+            "name": "EUROSTAR ITX STD",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "ES3": {
+            "class": "F",
+            "description": "",
+            "name": "DOMESTIC ITX 1ST",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "ES4": {
+            "class": "S",
+            "description": "",
+            "name": "DOMESTIC ITX STD",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "EVR": {
+            "class": "S",
+            "description": "",
+            "name": "EURO HIGH SVR R",
+            "outbound_validity": "D1",
+            "return_validity": "M2",
+            "tfl" : false
+        },
+        "EVS": {
+            "class": "S",
+            "description": "",
+            "name": "EURO HIGH SVR S",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F0R": {
+            "class": "F",
+            "description": "Enhanced snacks offered (Mon-Fri) on selected trains.Please refer to T & C for further details.",
+            "name": "BUSINESS ANYTIME",
+            "outbound_validity": "M1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "F1A": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F1L": {
+            "class": "F",
+            "description": "Save on pack of 50 anytime single journeys. No refunds.",
+            "name": "FLEXIPASS 50 FIRST SINGLE",
+            "outbound_validity": "M12",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F1V": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F2A": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F2V": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F3A": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F3V": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F4A": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F4V": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F5A": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "F7V": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FAS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FAV": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FBS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FCD": {
+            "class": "F",
+            "description": "Any off-peak train. Return same day.",
+            "name": "FIRST OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "FCR": {
+            "class": "F",
+            "description": "Any off-peak train. Return same day.",
+            "name": "FIRST OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "FCS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FDA": {
+            "class": "S",
+            "description": "Same day return",
+            "name": "KIDS GO FREE 1",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "FDB": {
+            "class": "S",
+            "description": "Same day return",
+            "name": "KIDS GO FREE 2",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "FDR": {
+            "class": "F",
+            "description": "Travel any time of day, return same day.",
+            "name": "FIRST ANYTIME DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "FDS": {
+            "class": "F",
+            "description": "Travel any time of day.",
+            "name": "FIRST ANYTIME DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FDT": {
+            "class": "F",
+            "description": "Same day return travel including unlimited bus and tube journeys around London.",
+            "name": "FIRST ANYTIME DAY TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "FFP": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST PROMO",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FFS": {
+            "class": "F",
+            "description": "",
+            "name": "VALUE 14 ADVANCE 1ST",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FFX": {
+            "class": "F",
+            "description": "Save on pack of 10 anytime single journeys. No refunds.",
+            "name": "FLEXIPASS 10 FIRST SINGLE",
+            "outbound_validity": "M1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FNW": {
+            "class": "S",
+            "description": "Two people must travel together. Return same day",
+            "name": "NORTHERN DUO",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "FOR": {
+            "class": "F",
+            "description": "Travel any time of day, return within 1 month.",
+            "name": "FIRST ANYTIME RETURN",
+            "outbound_validity": "D5",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "FOS": {
+            "class": "F",
+            "description": "Travel any time of day.",
+            "name": "FIRST ANYTIME SINGLE",
+            "outbound_validity": "D2",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FPP": {
+            "class": "F",
+            "description": "Including 3 days parking. Travel any time of day, return within 1 month.",
+            "name": "FIRST PLUS PARKING",
+            "outbound_validity": "M1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "FRX": {
+            "class": "F",
+            "description": "Any off-peak train. Return same day.",
+            "name": "FIRST OFF-PEAK DAY RTN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "FSL": {
+            "class": "S",
+            "description": "Save on pack of 50 anytime single journeys. No refunds.",
+            "name": "FLEXIPASS 50 SINGLE",
+            "outbound_validity": "M12",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FSO": {
+            "class": "F",
+            "description": "Any off-peak train. Return same day.",
+            "name": "FIRST OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "FSR": {
+            "class": "F",
+            "description": "Any off-peak train. Return within 1 month.",
+            "name": "FIRST OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "FSS": {
+            "class": "F",
+            "description": "Any off-peak train.",
+            "name": "FIRST OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FSX": {
+            "class": "F",
+            "description": "Any off-peak train.",
+            "name": "FIRST OFF-PEAK DAY SGL",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FTC": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "FAMILY TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "FXR": {
+            "class": "F",
+            "description": "",
+            "name": "1ST APEX RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1A",
+            "tfl" : false
+        },
+        "FXS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "G1R": {
+            "class": "F",
+            "description": "Any off-peak train. Return within 1 month.",
+            "name": "FIRST OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "G1S": {
+            "class": "F",
+            "description": "Any off-peak train.",
+            "name": "FIRST OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "G2R": {
+            "class": "S",
+            "description": "Any off-peak train. Return within 1 month.",
+            "name": "OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "G2S": {
+            "class": "S",
+            "description": "Any off-peak train.",
+            "name": "OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GAP": {
+            "class": "S",
+            "description": "",
+            "name": "PROMO SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GC3": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GC4": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GC5": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GC6": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GC7": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GC8": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCA": {
+            "class": "F",
+            "description": "Specified train only. No refunds",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCB": {
+            "class": "S",
+            "description": "Specified train only. No refunds",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCD": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCE": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCG": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCH": {
+            "class": "S",
+            "description": "Specified train only. No refunds",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCI": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCJ": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCQ": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCR": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCT": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCU": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCV": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GCX": {
+            "class": "S",
+            "description": "",
+            "name": "GRAND CENTRAL PROMOTION",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GDR": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return same day.",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "GDS": {
+            "class": "S",
+            "description": "Selected off-peak trains.",
+            "name": "SUPER OFF-PEAK DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GE1": {
+            "class": "F",
+            "description": "Any off-peak train. Return same day.",
+            "name": "FIRST OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "GFR": {
+            "class": "F",
+            "description": "Travel any time of day, return within 1 month.",
+            "name": "FIRST ANYTIME RETURN",
+            "outbound_validity": "D5",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "GFS": {
+            "class": "F",
+            "description": "Travel any time of day.",
+            "name": "FIRST ANYTIME SINGLE",
+            "outbound_validity": "D2",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GO3": {
+            "class": "S",
+            "description": "",
+            "name": "EMT GROUP SINGLE OFF-PEAK",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GO5": {
+            "class": "S",
+            "description": "",
+            "name": "EMT GROUP SINGLE OFF-PEAK.",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GOR": {
+            "class": "S",
+            "description": "Travel any time of day, return within 1 month.",
+            "name": "ANYTIME RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "GP3": {
+            "class": "S",
+            "description": "",
+            "name": "EMT GROUP SINGLE PEAK",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GP5": {
+            "class": "S",
+            "description": "",
+            "name": "EMT GROUP SINGLE PEAK",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GPR": {
+            "class": "S",
+            "description": "Travel any time of day, return same day.",
+            "name": "ANYTIME DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "GRR": {
+            "class": "F",
+            "description": "Only valid for persons aged over 60.",
+            "name": "ANYTIME OVER 60 RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "GRS": {
+            "class": "F",
+            "description": "Only valid for persons aged over 60.",
+            "name": "ANYTIME OVER 60 SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GTR": {
+            "class": "S",
+            "description": "Travel any time of day, return within 1 month.",
+            "name": "ANYTIME RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "GTS": {
+            "class": "S",
+            "description": "Travel any time of day.",
+            "name": "ANYTIME SINGLE",
+            "outbound_validity": "D2",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GUR": {
+            "class": "F",
+            "description": "Travel any time of day, return within 1 month.",
+            "name": "FIRST ANYTIME RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "GUS": {
+            "class": "F",
+            "description": "Travel any time of day.",
+            "name": "FIRST ANYTIME SINGLE",
+            "outbound_validity": "D2",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "GVR": {
+            "class": "S",
+            "description": "Any off-peak train. Return within 1 month.",
+            "name": "ANGLO-SCOT OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "HT1": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "HT2": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "HT4": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "HTA": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "HTD": {
+            "class": "S",
+            "description": "Two people must travel together.",
+            "name": "HULL TRAINS DUO",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "HTS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "HTT": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "I1A": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "I1B": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "I1C": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "I1D": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "I1E": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "I1F": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "I1G": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "I1H": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE BREAKFAST",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "I1I": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "IAB": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "IBB": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "ICB": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "IDO": {
+            "class": "F",
+            "description": "Includes Breakfast, 24hrs parking and One day travelcard. Reservations are compulsory.",
+            "name": "LONDON DAY OUT",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "IF1": {
+            "class": "F",
+            "description": "",
+            "name": "EC ADVANCE ITX 1ST (LOW FARE)",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "IF3": {
+            "class": "F",
+            "description": "",
+            "name": "EC ADVANCE ITX 1ST (HIGH FARE)",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "IS1": {
+            "class": "S",
+            "description": "",
+            "name": "EC ADVANCE ITX (LOW FARE)",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "IS3": {
+            "class": "S",
+            "description": "",
+            "name": "EC ADVANCE ITX (HIGH FARE)",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "JAS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "JBS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "JCS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "JDS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "JES": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "JFS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "JGS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "JHS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "LFB": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "LSR": {
+            "class": "S",
+            "description": "",
+            "name": "LOW SAVER RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "MAF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MAS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MBF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MBS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MCF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MCS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MDF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MDS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MEF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MES": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MFF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MFS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MGF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MGS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MHS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MIA": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MIB": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MID": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return within 1 month. Travel on Mondays - Thursdays Only.",
+            "name": "MIDWEEK SUPER OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "MIF": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MIS": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MJF": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MJS": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MMR": {
+            "class": "S",
+            "description": "",
+            "name": "MOBILE MULTI-FLEX",
+            "outbound_validity": "M3",
+            "return_validity": "M3",
+            "tfl" : false
+        },
+        "MMS": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "MXR": {
+            "class": "S",
+            "description": "",
+            "name": "AIRPORT APEX RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1A",
+            "tfl" : false
+        },
+        "NAR": {
+            "class": "S",
+            "description": "",
+            "name": "NETWORK AWAY BREAK",
+            "outbound_validity": "D1",
+            "return_validity": "D5",
+            "tfl" : false
+        },
+        "NBA": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "NCA": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "NDA": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "NDS": {
+            "class": "S",
+            "description": "",
+            "name": "SPECIAL DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "NEA": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OAS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OBS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OBZ": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OCS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "ODS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "ODT": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "OFF-PEAK DAY TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "OES": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OF1": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OF2": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OF3": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OF4": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OF5": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OF6": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OGS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OHS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OJS": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OLD": {
+            "class": "S",
+            "description": "",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "OLT": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "SUPER OFF-PEAK TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "OPD": {
+            "class": "S",
+            "description": "Selected off-peak trains.",
+            "name": "SUPER OFF-PEAK DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OPF": {
+            "class": "F",
+            "description": "Any off-peak train. Return same day.",
+            "name": "FIRST OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "OPR": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return within 1 month.",
+            "name": "SUPER OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "OPS": {
+            "class": "S",
+            "description": "Selected off-peak trains.",
+            "name": "SUPER OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OS1": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OS2": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OS3": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OS4": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OS5": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OS6": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "OSA": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating",
+            "name": "BUSINESS PLUS RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "OSB": {
+            "class": "S",
+            "description": "",
+            "name": "BUSINESS RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "OSR": {
+            "class": "S",
+            "description": "Not valid for travel before 09:15 Monday to Friday. Return within 2 months.",
+            "name": "OFFSHORE RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M2",
+            "tfl" : false
+        },
+        "OTF": {
+            "class": "F",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "FIRST OFF-PEAK DAY TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "OVN": {
+            "class": "S",
+            "description": "",
+            "name": "OVERNIGHTER",
+            "outbound_validity": "D1",
+            "return_validity": "D2",
+            "tfl" : false
+        },
+        "PBD": {
+            "class": "S",
+            "description": "",
+            "name": "PLUSBUS DAY",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "PCF": {
+            "class": "F",
+            "description": "",
+            "name": "COMPLIMENTARY FIRST",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "PCS": {
+            "class": "S",
+            "description": "",
+            "name": "COMP STANDARD",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "PDR": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return same day.",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "PDS": {
+            "class": "S",
+            "description": "Selected off-peak trains.",
+            "name": "SUPER OFF-PEAK DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "S1A": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "S2A": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "S3A": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "S4A": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "S5A": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAB": {
+            "class": "S",
+            "description": "",
+            "name": "SLEEPER TWIN",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAC": {
+            "class": "S",
+            "description": "",
+            "name": "SLEEPER SOLO",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAD": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER SINGLE OCCUPANCY",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAG": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER ADVANCE SGL OCCUPANCY",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAH": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER ADVANCE SGL OCCUPANCY",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAI": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER ADVANCE SGL OCCUPANCY",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAJ": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER ADVANCE SOLO",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAK": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER ADVANCE SOLO",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAL": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER ADVANCE SOLO",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAM": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER ADVANCE TWIN",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAN": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER ADVANCE TWIN",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAO": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER ADVANCE TWIN",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAR": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "SLEEPER ADVANCE SOLO",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SAV": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "STANDARD ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SBV": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "STANDARD ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SCO": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return same day.",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "SCV": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "STANDARD ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SDR": {
+            "class": "S",
+            "description": "Travel any time of day, return same day.",
+            "name": "ANYTIME DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "SDS": {
+            "class": "S",
+            "description": "Travel any time of day.",
+            "name": "ANYTIME DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SED": {
+            "class": "S",
+            "description": "Two people must travel together.",
+            "name": "STANSTED EXPRESS DUO",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "SER": {
+            "class": "S",
+            "description": "SailRail ticket - special conditions apply",
+            "name": "SUPER ECONOMY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "SES": {
+            "class": "S",
+            "description": "SailRail ticket - special conditions apply",
+            "name": "SUPER ECONOMY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SFR": {
+            "class": "F",
+            "description": "Any off-peak train. Return within 1 month.",
+            "name": "FIRST OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "SFX": {
+            "class": "S",
+            "description": "Save on pack of 10 anytime single journeys. No refunds.",
+            "name": "FLEXIPASS 10 SINGLE",
+            "outbound_validity": "M1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SLA": {
+            "class": "S",
+            "description": "",
+            "name": "SAILRAIL ADVANCE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SLD": {
+            "class": "S",
+            "description": "",
+            "name": "SAILRAIL SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SOA": {
+            "class": "S",
+            "description": "Selected off-peak trains.",
+            "name": "SUPER OFF-PEAK DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SOB": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return same day.",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "SOP": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return within 1 month.",
+            "name": "SUPER OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "SOR": {
+            "class": "S",
+            "description": "Travel any time of day, return within 1 month.",
+            "name": "ANYTIME RETURN",
+            "outbound_validity": "D5",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "SOS": {
+            "class": "S",
+            "description": "Travel any time of day.",
+            "name": "ANYTIME SINGLE",
+            "outbound_validity": "D2",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SOT": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "SUPER OFF-PEAK TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "SPA": {
+            "class": "F",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER 1ST SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SPB": {
+            "class": "F",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER 1ST SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SPC": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER STD SGL",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SPG": {
+            "class": "S",
+            "description": "Including 24hrs parking. Travel any time of day, return within 1 month.",
+            "name": "STANDARD PLUS  PARKING",
+            "outbound_validity": "M1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "SPI": {
+            "class": "S",
+            "description": "Specified train only. Sleeper product",
+            "name": "SLEEPER STD SGL",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SQF": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "FRIENDS FARE",
+            "outbound_validity": "D1",
+            "return_validity": "M1A",
+            "tfl" : false
+        },
+        "SRR": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return same day.",
+            "name": "SUPER OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "SSH": {
+            "class": "S",
+            "description": "",
+            "name": "SUPER OFF-PEAK SINGLE (ONLINE)",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SSR": {
+            "class": "S",
+            "description": "Selected off-peak trains. Return within 1 month.",
+            "name": "SUPER OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "SSS": {
+            "class": "S",
+            "description": "Selected off-peak trains.",
+            "name": "SUPER OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "STO": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "SUPER OFF-PEAK TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "STP": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "SUPER OFF-PEAK TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "SVH": {
+            "class": "S",
+            "description": "Internet only. Can only be booked as part of a return journey.",
+            "name": "OFF-PEAK SINGLE (ONLINE)",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SVR": {
+            "class": "S",
+            "description": "Any off-peak train. Return within 1 month.",
+            "name": "OFF-PEAK RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "SVS": {
+            "class": "S",
+            "description": "Any off-peak train.",
+            "name": "OFF-PEAK SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "SWS": {
+            "class": "S",
+            "description": "Selected off-peak trains.",
+            "name": "SUPER OFF-PEAK DAY SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "TTN": {
+            "class": "F",
+            "description": "Save 10% on 10 anytime package return journeys. No refunds.",
+            "name": "CARNET TAKE 10 BUSINESS",
+            "outbound_validity": "M3",
+            "return_validity": "M3",
+            "tfl" : false
+        },
+        "TTR": {
+            "class": "F",
+            "description": "Save 10% on 10 anytime single journeys. No refunds.",
+            "name": "CARNET TAKE 10 FIRST SINGLE",
+            "outbound_validity": "M3",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "TTS": {
+            "class": "S",
+            "description": "Save 10% on 10 anytime single journeys. No refunds.",
+            "name": "CARNET TAKE 10  SINGLE",
+            "outbound_validity": "M3",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "TVR": {
+            "class": "F",
+            "description": "",
+            "name": "TRAVELLER",
+            "outbound_validity": "D1",
+            "return_validity": "M1A",
+            "tfl" : false
+        },
+        "TVS": {
+            "class": "F",
+            "description": "",
+            "name": "TRAVELLER",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "UFA": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "UFB": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "UFC": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "UFD": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "UFE": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "UFF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "UFG": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "UFH": {
+            "class": "F",
+            "description": "",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "USA": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "USB": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "USC": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "USD": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "USE": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "USF": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "USG": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "USH": {
+            "class": "S",
+            "description": "",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VA1": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VA2": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VAA": {
+            "class": "S",
+            "description": "",
+            "name": "VIRGIN ATLANTIC STAFF TRAVEL",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VAS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VBR": {
+            "class": "F",
+            "description": "",
+            "name": "VIRGIN BUSINESS RETURN",
+            "outbound_validity": "D5",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "VBS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VCS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VDS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VES": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "PROMOTIONAL ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VP1": {
+            "class": "F",
+            "description": "",
+            "name": "VIRGIN OVERNIGHT",
+            "outbound_validity": "D5",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "VT1": {
+            "class": "S",
+            "description": "",
+            "name": "VTONLY GBP1SHOP",
+            "outbound_validity": "M3",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VT2": {
+            "class": "S",
+            "description": "",
+            "name": "VTONLY GBP2SHOP",
+            "outbound_validity": "M3",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VT3": {
+            "class": "S",
+            "description": "",
+            "name": "VTONLY GBP3SHOP",
+            "outbound_validity": "M3",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VT5": {
+            "class": "S",
+            "description": "",
+            "name": "VTONLY GBP5SHOP",
+            "outbound_validity": "M3",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VVF": {
+            "class": "S",
+            "description": "",
+            "name": "VIRGIN FAMILY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "VVR": {
+            "class": "S",
+            "description": "",
+            "name": "VIRGIN VALUE 14 DAY ADV RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1A",
+            "tfl" : false
+        },
+        "VWU": {
+            "class": "F",
+            "description": "",
+            "name": "WEEKEND UPGRADE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "W1L": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WAS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WBS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WC1": {
+            "class": "F",
+            "description": "",
+            "name": "WEST COAST CORPORATE FIRST",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "WC2": {
+            "class": "S",
+            "description": "",
+            "name": "WEST COAST CORPORATE STANDARD",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "WCC": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating",
+            "name": "WEST COAST CORPORATE",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "WCS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WDR": {
+            "class": "S",
+            "description": "Any off-peak train. Return same day.",
+            "name": "OFF-PEAK DAY RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : false
+        },
+        "WDS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WDT": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "SATURDAY DAY TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "WES": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WFS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WGS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WHS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WJS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WK1": {
+            "class": "F",
+            "description": "Return the same weekend.",
+            "name": "FIRST WEEKENDER",
+            "outbound_validity": "D1",
+            "return_validity": "D4",
+            "tfl" : false
+        },
+        "WK2": {
+            "class": "S",
+            "description": "Return the same weekend.",
+            "name": "WEEKENDER",
+            "outbound_validity": "D1",
+            "return_validity": "D4",
+            "tfl" : false
+        },
+        "WKR": {
+            "class": "S",
+            "description": "",
+            "name": "WEEKENDER",
+            "outbound_validity": "D1",
+            "return_validity": "D4",
+            "tfl" : false
+        },
+        "WKS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WLS": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WMT": {
+            "class": "S",
+            "description": "",
+            "name": "BUSINESS ZONE PACKAGE",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "WPS": {
+            "class": "S",
+            "description": "",
+            "name": "SAME DAY ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "WRE": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "SUPER OFF-PEAK TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "WTC": {
+            "class": "S",
+            "description": "Same day return off-peak travel including unlimited bus and tube journeys around London.",
+            "name": "SUPER OFF-PEAK TRAVELCARD",
+            "outbound_validity": "D1",
+            "return_validity": "D1",
+            "tfl" : true
+        },
+        "X1C": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "COMPLIMENTARY FIRST",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "X2C": {
+            "class": "S",
+            "description": "Specified train only. No refunds.",
+            "name": "COMPLIMENTARY STANDARD",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XAF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XBF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XC1": {
+            "class": "S",
+            "description": "",
+            "name": "STANDARD BUSINESS RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "XC2": {
+            "class": "S",
+            "description": "",
+            "name": "STANDARD BUSINESS RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "XCF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XCT": {
+            "class": "S",
+            "description": "Only one ticket can be bought at a time.",
+            "name": "XC EXPLORER",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XCU": {
+            "class": "F",
+            "description": "",
+            "name": "AXC WEEKEND UPGRADE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XD1": {
+            "class": "S",
+            "description": "",
+            "name": "STANDARD BUSINESS RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "XDF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XEF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XFF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XGF": {
+            "class": "F",
+            "description": "Specified train only. No refunds.",
+            "name": "FIRST ADVANCE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XP1": {
+            "class": "F",
+            "description": "First class ticket including up to 3 days parking",
+            "name": "FIRST PARK AND GO",
+            "outbound_validity": "M1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "XP2": {
+            "class": "F",
+            "description": "First class ticket including up to 3 days parking",
+            "name": "FIRST PARK AND GO",
+            "outbound_validity": "M1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "XS1": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating and complimentary food and drink",
+            "name": "SCOTTISH EXECUTIVE RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "XS2": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating and complimentary food and drink",
+            "name": "SCOTTISH EXECUTIVE RETURN",
+            "outbound_validity": "D1",
+            "return_validity": "M1",
+            "tfl" : false
+        },
+        "XS5": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating and complimentary food and drink",
+            "name": "SCOTTISH EXECUTIVE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XS6": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating and complimentary food and drink",
+            "name": "SCOTTISH EXECUTIVE SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "XS8": {
+            "class": "S",
+            "description": "Includes complimentary upgrade to First Class seating and complimentary food and drink",
+            "name": "WEST YORKSHIRE EXEC SINGLE",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "FZP" : {
+            "class" : "F",
+            "name" : "SEAT SALE FIRST SINGLE",
+            "description" : "Specified train only. No refund.",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        },
+        "VZP" : {
+            "class": "S",
+            "name" : "SEAT SALE STANDARD SINGLE",
+            "description" : "Specified train only. No refund.",
+            "outbound_validity": "D1",
+            "return_validity": "M0",
+            "tfl" : false
+        }
+    },
+    "file_name": "ticket names",
+    "version": "1.0"
+}

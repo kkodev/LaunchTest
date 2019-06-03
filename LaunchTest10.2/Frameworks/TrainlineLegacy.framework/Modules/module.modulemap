@@ -1,0 +1,6 @@
+framework module TrainlineLegacy {
+  umbrella header "TrainlineLegacy.h"
+
+  export *
+  module * { export * }
+}

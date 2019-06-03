@@ -1,0 +1,4 @@
+framework module LegacyPricePrediction {
+  header "LegacyPricePrediction-Swift.h"
+  requires objc
+}

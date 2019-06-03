@@ -1,0 +1,11 @@
+framework module TrainlineUI {
+  umbrella header "TrainlineUI.h"
+
+  export *
+  module * { export * }
+}
+
+module TrainlineUI.Swift {
+    header "TrainlineUI-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+framework module TrainlineRefunds {
+  header "TrainlineRefunds-Swift.h"
+  requires objc
+}

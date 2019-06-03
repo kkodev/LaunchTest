@@ -1,0 +1,11 @@
+framework module ReferenceData {
+  umbrella header "ReferenceData.h"
+
+  export *
+  module * { export * }
+}
+
+module ReferenceData.Swift {
+    header "ReferenceData-Swift.h"
+    requires objc
+}

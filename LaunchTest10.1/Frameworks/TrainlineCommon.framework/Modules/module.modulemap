@@ -1,0 +1,11 @@
+framework module TrainlineCommon {
+  umbrella header "TrainlineCommon.h"
+
+  export *
+  module * { export * }
+}
+
+module TrainlineCommon.Swift {
+    header "TrainlineCommon-Swift.h"
+    requires objc
+}

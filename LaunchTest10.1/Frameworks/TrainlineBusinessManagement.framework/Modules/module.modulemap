@@ -1,0 +1,11 @@
+framework module TrainlineBusinessManagement {
+  umbrella header "TrainlineBusinessManagement.h"
+
+  export *
+  module * { export * }
+}
+
+module TrainlineBusinessManagement.Swift {
+    header "TrainlineBusinessManagement-Swift.h"
+    requires objc
+}

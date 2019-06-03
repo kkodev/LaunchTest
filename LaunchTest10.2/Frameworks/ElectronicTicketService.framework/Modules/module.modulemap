@@ -1,0 +1,4 @@
+framework module ElectronicTicketService {
+  header "ElectronicTicketService-Swift.h"
+  requires objc
+}

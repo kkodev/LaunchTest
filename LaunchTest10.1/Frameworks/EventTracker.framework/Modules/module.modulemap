@@ -1,0 +1,11 @@
+framework module EventTracker {
+  umbrella header "EventTracker.h"
+
+  export *
+  module * { export * }
+}
+
+module EventTracker.Swift {
+    header "EventTracker-Swift.h"
+    requires objc
+}

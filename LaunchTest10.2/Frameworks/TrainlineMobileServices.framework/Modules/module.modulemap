@@ -1,0 +1,4 @@
+framework module TrainlineMobileServices {
+  header "TrainlineMobileServices-Swift.h"
+  requires objc
+}

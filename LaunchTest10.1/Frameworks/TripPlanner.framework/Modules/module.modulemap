@@ -1,0 +1,11 @@
+framework module TripPlanner {
+  umbrella header "TripPlanner.h"
+
+  export *
+  module * { export * }
+}
+
+module TripPlanner.Swift {
+    header "TripPlanner-Swift.h"
+    requires objc
+}

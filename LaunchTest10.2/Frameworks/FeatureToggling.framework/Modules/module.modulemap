@@ -1,0 +1,6 @@
+framework module FeatureToggling {
+  umbrella header "FeatureToggling.h"
+
+  export *
+  module * { export * }
+}

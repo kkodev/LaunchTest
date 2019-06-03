@@ -1,0 +1,4 @@
+framework module FulfilmentConverter {
+  header "FulfilmentConverter-Swift.h"
+  requires objc
+}

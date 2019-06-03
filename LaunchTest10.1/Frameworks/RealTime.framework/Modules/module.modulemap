@@ -1,0 +1,11 @@
+framework module RealTime {
+  umbrella header "RealTime.h"
+
+  export *
+  module * { export * }
+}
+
+module RealTime.Swift {
+    header "RealTime-Swift.h"
+    requires objc
+}

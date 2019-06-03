@@ -1,0 +1,6 @@
+framework module Connectivity {
+  umbrella header "Connectivity.h"
+
+  export *
+  module * { export * }
+}

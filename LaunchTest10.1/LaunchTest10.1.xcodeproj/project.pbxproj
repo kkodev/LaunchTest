@@ -1,0 +1,505 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8822284722A176B7005E58B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8822284622A176B7005E58B4 /* AppDelegate.swift */; };
+		8822284922A176B7005E58B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8822284822A176B7005E58B4 /* ViewController.swift */; };
+		8822284C22A176B7005E58B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8822284A22A176B7005E58B4 /* Main.storyboard */; };
+		8822284E22A176B9005E58B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8822284D22A176B9005E58B4 /* Assets.xcassets */; };
+		8822285122A176B9005E58B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8822284F22A176B9005E58B4 /* LaunchScreen.storyboard */; };
+		882228A022A17912005E58B4 /* APIService.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287722A178F1005E58B4 /* APIService.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228A122A17912005E58B4 /* BusyBot.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286822A178F0005E58B4 /* BusyBot.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228A222A17912005E58B4 /* Configuration.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822285F22A178F0005E58B4 /* Configuration.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228A322A17912005E58B4 /* Connectivity.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287222A178F1005E58B4 /* Connectivity.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228A422A17912005E58B4 /* CustomerService.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287022A178F1005E58B4 /* CustomerService.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228A522A17912005E58B4 /* ElectronicTicketService.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286622A178F0005E58B4 /* ElectronicTicketService.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228A622A17912005E58B4 /* EventTracker.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286C22A178F0005E58B4 /* EventTracker.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228A722A17912005E58B4 /* FeatureToggling.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822285D22A178F0005E58B4 /* FeatureToggling.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228A822A17912005E58B4 /* FulfilmentConverter.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286022A178F0005E58B4 /* FulfilmentConverter.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228AB22A17912005E58B4 /* JourneyInfo.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822285A22A178F0005E58B4 /* JourneyInfo.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228AC22A17912005E58B4 /* JourneyPlannerService.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286F22A178F1005E58B4 /* JourneyPlannerService.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228AD22A17912005E58B4 /* JourneySearch.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286922A178F0005E58B4 /* JourneySearch.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228AE22A17912005E58B4 /* LegacyPricePrediction.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822285E22A178F0005E58B4 /* LegacyPricePrediction.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228AF22A17912005E58B4 /* MobileReferenceData.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287522A178F1005E58B4 /* MobileReferenceData.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B022A17912005E58B4 /* OrderHistory.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822285B22A178F0005E58B4 /* OrderHistory.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B122A17912005E58B4 /* PlanAndBuy.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286122A178F0005E58B4 /* PlanAndBuy.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B222A17912005E58B4 /* PriceBot.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286A22A178F0005E58B4 /* PriceBot.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B322A17912005E58B4 /* PricePrediction.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822285C22A178F0005E58B4 /* PricePrediction.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B422A17912005E58B4 /* ProductService.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287922A178F1005E58B4 /* ProductService.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B522A17912005E58B4 /* RealTime.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822285922A178F0005E58B4 /* RealTime.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B622A17912005E58B4 /* ReferenceData.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287322A178F1005E58B4 /* ReferenceData.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B722A17912005E58B4 /* SharedData.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287622A178F1005E58B4 /* SharedData.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B822A17912005E58B4 /* SharedModel.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286722A178F0005E58B4 /* SharedModel.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228B922A17912005E58B4 /* TableViewModules.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286422A178F0005E58B4 /* TableViewModules.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228BA22A17912005E58B4 /* TrainlineBusinessManagement.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286222A178F0005E58B4 /* TrainlineBusinessManagement.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228BB22A17912005E58B4 /* TrainlineCommon.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287122A178F1005E58B4 /* TrainlineCommon.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228BC22A17912005E58B4 /* TrainlineLegacy.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286522A178F0005E58B4 /* TrainlineLegacy.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228BD22A17912005E58B4 /* TrainlineMobileServices.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287422A178F1005E58B4 /* TrainlineMobileServices.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228BE22A17912005E58B4 /* TrainlineRefunds.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286E22A178F0005E58B4 /* TrainlineRefunds.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228BF22A17912005E58B4 /* TrainlineUI.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287822A178F1005E58B4 /* TrainlineUI.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228C022A17912005E58B4 /* TrainlineVisVal.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822287A22A178F2005E58B4 /* TrainlineVisVal.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228C122A17912005E58B4 /* TripPlanner.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286D22A178F0005E58B4 /* TripPlanner.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		882228C222A17912005E58B4 /* UICKeyChainStore.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 8822286322A178F0005E58B4 /* UICKeyChainStore.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8822289F22A178FF005E58B4 /* Copy Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				882228A022A17912005E58B4 /* APIService.framework in Copy Frameworks */,
+				882228A122A17912005E58B4 /* BusyBot.framework in Copy Frameworks */,
+				882228A222A17912005E58B4 /* Configuration.framework in Copy Frameworks */,
+				882228A322A17912005E58B4 /* Connectivity.framework in Copy Frameworks */,
+				882228A422A17912005E58B4 /* CustomerService.framework in Copy Frameworks */,
+				882228A522A17912005E58B4 /* ElectronicTicketService.framework in Copy Frameworks */,
+				882228A622A17912005E58B4 /* EventTracker.framework in Copy Frameworks */,
+				882228A722A17912005E58B4 /* FeatureToggling.framework in Copy Frameworks */,
+				882228A822A17912005E58B4 /* FulfilmentConverter.framework in Copy Frameworks */,
+				882228AB22A17912005E58B4 /* JourneyInfo.framework in Copy Frameworks */,
+				882228AC22A17912005E58B4 /* JourneyPlannerService.framework in Copy Frameworks */,
+				882228AD22A17912005E58B4 /* JourneySearch.framework in Copy Frameworks */,
+				882228AE22A17912005E58B4 /* LegacyPricePrediction.framework in Copy Frameworks */,
+				882228AF22A17912005E58B4 /* MobileReferenceData.framework in Copy Frameworks */,
+				882228B022A17912005E58B4 /* OrderHistory.framework in Copy Frameworks */,
+				882228B122A17912005E58B4 /* PlanAndBuy.framework in Copy Frameworks */,
+				882228B222A17912005E58B4 /* PriceBot.framework in Copy Frameworks */,
+				882228B322A17912005E58B4 /* PricePrediction.framework in Copy Frameworks */,
+				882228B422A17912005E58B4 /* ProductService.framework in Copy Frameworks */,
+				882228B522A17912005E58B4 /* RealTime.framework in Copy Frameworks */,
+				882228B622A17912005E58B4 /* ReferenceData.framework in Copy Frameworks */,
+				882228B722A17912005E58B4 /* SharedData.framework in Copy Frameworks */,
+				882228B822A17912005E58B4 /* SharedModel.framework in Copy Frameworks */,
+				882228B922A17912005E58B4 /* TableViewModules.framework in Copy Frameworks */,
+				882228BA22A17912005E58B4 /* TrainlineBusinessManagement.framework in Copy Frameworks */,
+				882228BB22A17912005E58B4 /* TrainlineCommon.framework in Copy Frameworks */,
+				882228BC22A17912005E58B4 /* TrainlineLegacy.framework in Copy Frameworks */,
+				882228BD22A17912005E58B4 /* TrainlineMobileServices.framework in Copy Frameworks */,
+				882228BE22A17912005E58B4 /* TrainlineRefunds.framework in Copy Frameworks */,
+				882228BF22A17912005E58B4 /* TrainlineUI.framework in Copy Frameworks */,
+				882228C022A17912005E58B4 /* TrainlineVisVal.framework in Copy Frameworks */,
+				882228C122A17912005E58B4 /* TripPlanner.framework in Copy Frameworks */,
+				882228C222A17912005E58B4 /* UICKeyChainStore.framework in Copy Frameworks */,
+			);
+			name = "Copy Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		8822284322A176B7005E58B4 /* LaunchTest10.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LaunchTest10.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8822284622A176B7005E58B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8822284822A176B7005E58B4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8822284B22A176B7005E58B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8822284D22A176B9005E58B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8822285022A176B9005E58B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8822285222A176B9005E58B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8822285922A178F0005E58B4 /* RealTime.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = RealTime.framework; sourceTree = "<group>"; };
+		8822285A22A178F0005E58B4 /* JourneyInfo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = JourneyInfo.framework; sourceTree = "<group>"; };
+		8822285B22A178F0005E58B4 /* OrderHistory.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = OrderHistory.framework; sourceTree = "<group>"; };
+		8822285C22A178F0005E58B4 /* PricePrediction.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PricePrediction.framework; sourceTree = "<group>"; };
+		8822285D22A178F0005E58B4 /* FeatureToggling.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FeatureToggling.framework; sourceTree = "<group>"; };
+		8822285E22A178F0005E58B4 /* LegacyPricePrediction.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = LegacyPricePrediction.framework; sourceTree = "<group>"; };
+		8822285F22A178F0005E58B4 /* Configuration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Configuration.framework; sourceTree = "<group>"; };
+		8822286022A178F0005E58B4 /* FulfilmentConverter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FulfilmentConverter.framework; sourceTree = "<group>"; };
+		8822286122A178F0005E58B4 /* PlanAndBuy.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PlanAndBuy.framework; sourceTree = "<group>"; };
+		8822286222A178F0005E58B4 /* TrainlineBusinessManagement.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TrainlineBusinessManagement.framework; sourceTree = "<group>"; };
+		8822286322A178F0005E58B4 /* UICKeyChainStore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = UICKeyChainStore.framework; sourceTree = "<group>"; };
+		8822286422A178F0005E58B4 /* TableViewModules.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TableViewModules.framework; sourceTree = "<group>"; };
+		8822286522A178F0005E58B4 /* TrainlineLegacy.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TrainlineLegacy.framework; sourceTree = "<group>"; };
+		8822286622A178F0005E58B4 /* ElectronicTicketService.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ElectronicTicketService.framework; sourceTree = "<group>"; };
+		8822286722A178F0005E58B4 /* SharedModel.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SharedModel.framework; sourceTree = "<group>"; };
+		8822286822A178F0005E58B4 /* BusyBot.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = BusyBot.framework; sourceTree = "<group>"; };
+		8822286922A178F0005E58B4 /* JourneySearch.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = JourneySearch.framework; sourceTree = "<group>"; };
+		8822286A22A178F0005E58B4 /* PriceBot.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PriceBot.framework; sourceTree = "<group>"; };
+		8822286C22A178F0005E58B4 /* EventTracker.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = EventTracker.framework; sourceTree = "<group>"; };
+		8822286D22A178F0005E58B4 /* TripPlanner.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TripPlanner.framework; sourceTree = "<group>"; };
+		8822286E22A178F0005E58B4 /* TrainlineRefunds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TrainlineRefunds.framework; sourceTree = "<group>"; };
+		8822286F22A178F1005E58B4 /* JourneyPlannerService.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = JourneyPlannerService.framework; sourceTree = "<group>"; };
+		8822287022A178F1005E58B4 /* CustomerService.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CustomerService.framework; sourceTree = "<group>"; };
+		8822287122A178F1005E58B4 /* TrainlineCommon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TrainlineCommon.framework; sourceTree = "<group>"; };
+		8822287222A178F1005E58B4 /* Connectivity.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Connectivity.framework; sourceTree = "<group>"; };
+		8822287322A178F1005E58B4 /* ReferenceData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ReferenceData.framework; sourceTree = "<group>"; };
+		8822287422A178F1005E58B4 /* TrainlineMobileServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TrainlineMobileServices.framework; sourceTree = "<group>"; };
+		8822287522A178F1005E58B4 /* MobileReferenceData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MobileReferenceData.framework; sourceTree = "<group>"; };
+		8822287622A178F1005E58B4 /* SharedData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SharedData.framework; sourceTree = "<group>"; };
+		8822287722A178F1005E58B4 /* APIService.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = APIService.framework; sourceTree = "<group>"; };
+		8822287822A178F1005E58B4 /* TrainlineUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TrainlineUI.framework; sourceTree = "<group>"; };
+		8822287922A178F1005E58B4 /* ProductService.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ProductService.framework; sourceTree = "<group>"; };
+		8822287A22A178F2005E58B4 /* TrainlineVisVal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TrainlineVisVal.framework; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8822284022A176B7005E58B4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8822283A22A176B7005E58B4 = {
+			isa = PBXGroup;
+			children = (
+				8822284522A176B7005E58B4 /* LaunchTest10.1 */,
+				8822285822A17885005E58B4 /* Frameworks */,
+				8822284422A176B7005E58B4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8822284422A176B7005E58B4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8822284322A176B7005E58B4 /* LaunchTest10.1.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8822284522A176B7005E58B4 /* LaunchTest10.1 */ = {
+			isa = PBXGroup;
+			children = (
+				8822284622A176B7005E58B4 /* AppDelegate.swift */,
+				8822284822A176B7005E58B4 /* ViewController.swift */,
+				8822284A22A176B7005E58B4 /* Main.storyboard */,
+				8822284D22A176B9005E58B4 /* Assets.xcassets */,
+				8822284F22A176B9005E58B4 /* LaunchScreen.storyboard */,
+				8822285222A176B9005E58B4 /* Info.plist */,
+			);
+			path = LaunchTest10.1;
+			sourceTree = "<group>";
+		};
+		8822285822A17885005E58B4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8822287722A178F1005E58B4 /* APIService.framework */,
+				8822286822A178F0005E58B4 /* BusyBot.framework */,
+				8822285F22A178F0005E58B4 /* Configuration.framework */,
+				8822287222A178F1005E58B4 /* Connectivity.framework */,
+				8822287022A178F1005E58B4 /* CustomerService.framework */,
+				8822286622A178F0005E58B4 /* ElectronicTicketService.framework */,
+				8822286C22A178F0005E58B4 /* EventTracker.framework */,
+				8822285D22A178F0005E58B4 /* FeatureToggling.framework */,
+				8822286022A178F0005E58B4 /* FulfilmentConverter.framework */,
+				8822285A22A178F0005E58B4 /* JourneyInfo.framework */,
+				8822286F22A178F1005E58B4 /* JourneyPlannerService.framework */,
+				8822286922A178F0005E58B4 /* JourneySearch.framework */,
+				8822285E22A178F0005E58B4 /* LegacyPricePrediction.framework */,
+				8822287522A178F1005E58B4 /* MobileReferenceData.framework */,
+				8822285B22A178F0005E58B4 /* OrderHistory.framework */,
+				8822286122A178F0005E58B4 /* PlanAndBuy.framework */,
+				8822286A22A178F0005E58B4 /* PriceBot.framework */,
+				8822285C22A178F0005E58B4 /* PricePrediction.framework */,
+				8822287922A178F1005E58B4 /* ProductService.framework */,
+				8822285922A178F0005E58B4 /* RealTime.framework */,
+				8822287322A178F1005E58B4 /* ReferenceData.framework */,
+				8822287622A178F1005E58B4 /* SharedData.framework */,
+				8822286722A178F0005E58B4 /* SharedModel.framework */,
+				8822286422A178F0005E58B4 /* TableViewModules.framework */,
+				8822286222A178F0005E58B4 /* TrainlineBusinessManagement.framework */,
+				8822287122A178F1005E58B4 /* TrainlineCommon.framework */,
+				8822286522A178F0005E58B4 /* TrainlineLegacy.framework */,
+				8822287422A178F1005E58B4 /* TrainlineMobileServices.framework */,
+				8822286E22A178F0005E58B4 /* TrainlineRefunds.framework */,
+				8822287822A178F1005E58B4 /* TrainlineUI.framework */,
+				8822287A22A178F2005E58B4 /* TrainlineVisVal.framework */,
+				8822286D22A178F0005E58B4 /* TripPlanner.framework */,
+				8822286322A178F0005E58B4 /* UICKeyChainStore.framework */,
+			);
+			path = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8822284222A176B7005E58B4 /* LaunchTest10.1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8822285522A176B9005E58B4 /* Build configuration list for PBXNativeTarget "LaunchTest10.1" */;
+			buildPhases = (
+				8822283F22A176B7005E58B4 /* Sources */,
+				8822284022A176B7005E58B4 /* Frameworks */,
+				8822284122A176B7005E58B4 /* Resources */,
+				8822289F22A178FF005E58B4 /* Copy Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LaunchTest10.1;
+			productName = LaunchTest10.1;
+			productReference = 8822284322A176B7005E58B4 /* LaunchTest10.1.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8822283B22A176B7005E58B4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = Test;
+				TargetAttributes = {
+					8822284222A176B7005E58B4 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+				};
+			};
+			buildConfigurationList = 8822283E22A176B7005E58B4 /* Build configuration list for PBXProject "LaunchTest10.1" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8822283A22A176B7005E58B4;
+			productRefGroup = 8822284422A176B7005E58B4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8822284222A176B7005E58B4 /* LaunchTest10.1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8822284122A176B7005E58B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8822285122A176B9005E58B4 /* LaunchScreen.storyboard in Resources */,
+				8822284E22A176B9005E58B4 /* Assets.xcassets in Resources */,
+				8822284C22A176B7005E58B4 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8822283F22A176B7005E58B4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8822284922A176B7005E58B4 /* ViewController.swift in Sources */,
+				8822284722A176B7005E58B4 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8822284A22A176B7005E58B4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8822284B22A176B7005E58B4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8822284F22A176B9005E58B4 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8822285022A176B9005E58B4 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8822285322A176B9005E58B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8822285422A176B9005E58B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8822285622A176B9005E58B4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CE2C3N346A;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Frameworks",
+				);
+				INFOPLIST_FILE = LaunchTest10.1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.test.LaunchTest10-1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8822285722A176B9005E58B4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = CE2C3N346A;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Frameworks",
+				);
+				INFOPLIST_FILE = LaunchTest10.1/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.test.LaunchTest10-1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8822283E22A176B7005E58B4 /* Build configuration list for PBXProject "LaunchTest10.1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8822285322A176B9005E58B4 /* Debug */,
+				8822285422A176B9005E58B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8822285522A176B9005E58B4 /* Build configuration list for PBXNativeTarget "LaunchTest10.1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8822285622A176B9005E58B4 /* Debug */,
+				8822285722A176B9005E58B4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8822283B22A176B7005E58B4 /* Project object */;
+}

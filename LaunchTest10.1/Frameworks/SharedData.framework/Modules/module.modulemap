@@ -1,0 +1,6 @@
+framework module SharedData {
+  umbrella header "SharedData.h"
+
+  export *
+  module * { export * }
+}
